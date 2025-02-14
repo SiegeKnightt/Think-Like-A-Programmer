@@ -36,6 +36,9 @@ mode is uppercase, the mode switches to lowercase letters. If the mode
 is lowercase, the mode switches to punctuation, and if it is punctuation,
 it switches back to uppercase.
 */
+
+// Test Input: 18,12312,171,763,98423,1208,216,11,500,18,241,0,32,20620,27,10
+// Expected Output: Right? Yes!
  
 int main() {
 
