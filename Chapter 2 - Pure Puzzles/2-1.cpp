@@ -17,7 +17,7 @@ Example Output:
 
 */
 
-void sidewaysTriangle() {
+void triangle() {
 
     for (int row = 0; row < 4; row++) {
 
@@ -37,7 +37,7 @@ void sidewaysTriangle() {
 
 int main() {
 
-    sidewaysTriangle();
+    triangle();
 
     return 0;
 }
