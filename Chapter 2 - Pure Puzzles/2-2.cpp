@@ -21,7 +21,7 @@ Example Output:
 
 */
 
-void triangle() {
+void diamond() {
 
     for (int row = 0; row < 4; row++) {
 
@@ -56,7 +56,7 @@ void triangle() {
 
 int main() {
 
-    triangle();
+    diamond();
 
     return 0;
 }
